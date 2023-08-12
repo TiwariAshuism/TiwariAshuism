@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TiwariAshuism](https://github.com/TiwariAshuism)
 
-- 📝 I regularly write articles on [https://geekashu.blogspot.com/](https://geekashu.blogspot.com/)
+- 📝 I regularly write articles on [Portfolio](https://portfolio-sigma-five-58.vercel.app/)
 
 - 💬 Ask me about **React , Python, JavaScript ,**
 
-- 📫 How to reach me **tiwariashu@tuta.io**
+- 📫 How to reach me **aksamtiwari@gmail.com**
 
 - ⚡ Fun fact **I think I am a Geek**
 
